@@ -1,0 +1,71 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+body section {
+  display: flex;
+  flex-direction: row;
+}
+body .sideleft {
+  border: solid 1px black;
+  width: 20vw;
+  height: 99vh;
+  display: flex;
+  flex-direction: row;
+}
+body .square {
+  border: 1px solid;
+  width: 100px;
+  height: 50px;
+  margin-top: 10%;
+  margin-left: 4%;
+  text-align: center;
+}
+
+.rectangle {
+  border: solid 1px black;
+  width: 250px;
+  height: 50px;
+  text-align: center;
+  margin-left: 10%;
+  margin-top: 10%;
+}
+
+.lines {
+  display: flex;
+  flex-direction: column;
+  height: 505px;
+  margin-top: 50%;
+  width: 75px;
+  padding-right: 60%;
+  margin-left: -80%;
+}
+
+.main {
+  border: solid 1px black;
+  width: 55vw;
+  height: 99vh;
+  text-align: center;
+}
+
+.sideright {
+  border: 1px solid black;
+  width: 24vw;
+  height: 99vh;
+  text-align: center;
+}
+
+h4 {
+  border: solid 1px black;
+  width: 200px;
+  text-align: center;
+}
+
+.box {
+  height: 200px;
+}
+
+/*# sourceMappingURL=style.css.map */
